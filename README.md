@@ -35,7 +35,7 @@ It is a Flask app that shows various categories of movies , it allows a user to 
 ```
  
 1.Download and install Git.
- Clone this [github repo] ()
+ Clone this [github repo] (https://github.com/Olliemint/GeekTVMovies.git)
 2. Ensure python is installed on your machine
 3. On the terminal for linux or command prompt for windows;
   * Open the containing folder by cd.
@@ -48,7 +48,7 @@ It is a Flask app that shows various categories of movies , it allows a user to 
 * Heroku
 
 ### How To Access the Site
-> This App is being hosted by GitHub Pages. The link to the Repo is: 
+> This App is being hosted by GitHub Pages. The link to the Repo is:https://github.com/Olliemint/GeekTVMovies.git 
 
 
 ## BDD
